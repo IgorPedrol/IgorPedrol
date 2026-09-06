@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá! Me chamo Igor Pedrol e Seja Bem-vindo ao meu perfil 👋</h1>
+  <h3>Desenvolvedor Back-end | Java | Spring Boot </h3>
+</div>
 
-<!--
-**IgorPedrol/IgorPedrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor focado no ecossistema Back-end, com grande paixão por arquitetar e construir soluções robustas e escaláveis. Minha trajetória acadêmica e prática me impulsiona a buscar continuamente as melhores práticas de desenvolvimento, qualidade de código e arquitetura de software.
+
+* 🎓 **Educação Superior:** Graduando em Ciência da Computação pela **UTFPR** (Previsão de formação: 2027).
+* 🏫 **Formação Técnica:** Técnico em Análise e Desenvolvimento de Sistemas pela **ETEC Dr. Demétrio Azevedo Junior**.
+* 🚀 **Foco Atual:** Aprofundando estudos na construção de **APIs RESTful**, domínio do framework **Spring Boot** e garantia de qualidade de software através de **Testes Integrados utilizando JUnit**.
+* 💡 **Interesses:** Desenvolvimento Back-end, bancos de dados relacionais e otimização de regras de negócio.
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</div>
+
+<br>
+
+## 📬 Como me encontrar
+
+<div align="left">
+  <a href="mailto:igorefp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/IgorPedrol">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
