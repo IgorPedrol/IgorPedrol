@@ -21,6 +21,7 @@ Sou um desenvolvedor focado no ecossistema Back-end, com grande paixão por arqu
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PostGreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGreSQL" />
 </div>
 
 <br>
