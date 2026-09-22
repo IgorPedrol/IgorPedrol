@@ -3,7 +3,7 @@
   <h3>Desenvolvedor Back-end | Java | Spring Boot </h3>
 </div>
 
-<hr>
+<hr> 
 
 ## 👨‍💻 Sobre Mim
 
