@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor focado no ecossistema Back-end, com grande paixão por arquitetar e construir soluções robustas e escaláveis. Minha trajetória acadêmica e prática me impulsiona a buscar continuamente as melhores práticas de desenvolvimento, qualidade de código e arquitetura de software.
+Sou um desenvolvedor focado no ecossistema Back-end, com grande paixão por arquitetar e construir soluções robustas e escaláveis. Minha trajetória acadêmica e prática me impulsiona a buscar continuamente as melhores práticas de desenvolvimento, qualidade de código e arquitetura de software. 
 
 * 🎓 **Educação Superior:** Graduando em Ciência da Computação pela **UTFPR** (Previsão de formação: 2027).
 * 🏫 **Formação Técnica:** Técnico em Análise e Desenvolvimento de Sistemas pela **ETEC Dr. Demétrio Azevedo Junior**.
