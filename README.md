@@ -12,7 +12,7 @@ Sou um desenvolvedor focado no ecossistema Back-end, com grande paixão por arqu
 * 🎓 **Educação Superior:** Graduando em Ciência da Computação pela **UTFPR** (Previsão de formação: 2027).
 * 🏫 **Formação Técnica:** Técnico em Análise e Desenvolvimento de Sistemas pela **ETEC Dr. Demétrio Azevedo Junior**.
 * 🚀 **Foco Atual:** Aprofundando estudos na construção de **APIs RESTful**, domínio do framework **Spring** e garantia de qualidade de software através de **Testes Integrados utilizando JUnit**.
-* 💡 **Interesses:** Desenvolvimento Back-end, bancos de dados relacionais e otimização de regras de negócio.
+* 💡 **Interesses:** Desenvolvimento Back-end, bancos de dados relacionais, arquitetura de software e otimização de regras de negócio.
 
 ## 🛠️ Tecnologias e Ferramentas
 
